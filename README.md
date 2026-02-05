@@ -13,7 +13,6 @@ I am a researcher and developer who finds joy in **discovering inefficiencies in
 
 - 🔭 I’m currently working as an **AI Researcher & SW Developer**.
 - 🌱 I’m currently exploring **AI Solution**, **Mobility**, and **Agentic Workflow**.
-- 💬 Philosophy: **"Progress for Humanity"**
 
 ### 🛠 **Tech Stack**
 <div align="left">
